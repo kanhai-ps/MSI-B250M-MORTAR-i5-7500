@@ -9,6 +9,6 @@ Graphics           AMD Radeon RX 460 2GB & Intel HD Graphics 630
 Audio              Realtek ALC892
 Ethernet           Intel I219-V
 Monitor            FHD 1920x1080
-macOS Verison      Monterey 12.3
-OpenCore Version   0.7.9
+macOS Verison      Monterey 12.6
+OpenCore Version   0.8.4
 ```
