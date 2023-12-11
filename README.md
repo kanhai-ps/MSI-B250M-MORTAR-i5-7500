@@ -1,5 +1,5 @@
 # Hackintosh OpenCore EFI for MSI B250M MORTAR
-[一直使用SummerEmber大佬的EFI](https://github.com/SummerEmber/MSI-B250M-MORTAR)，自己只是备份一下
+一直使用[SummerEmber大佬EFI](https://github.com/SummerEmber/MSI-B250M-MORTAR)，自己只是备份一下
 ```
 Model              MSI B250M MORTAR
 Mainboard          Intel B250M
