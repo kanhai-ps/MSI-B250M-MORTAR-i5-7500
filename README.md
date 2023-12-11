@@ -13,3 +13,10 @@ macOS Verison      Ventura 13.6
 SMBIOS             iMac18,3
 OpenCore Version   0.9.6
 ```
+
+屏幕截图
+-----
+![avatar](https://github.com/kanhai-ps/MSI-B250M-MORTAR/blob/main/screenshots/screenshot1.png)
+![avatar](https://github.com/kanhai-ps/MSI-B250M-MORTAR/blob/main/screenshots/screenshot2.png)
+![avatar](https://github.com/kanhai-ps/MSI-B250M-MORTAR/blob/main/screenshots/screenshot3.png)
+![avatar](https://github.com/kanhai-ps/MSI-B250M-MORTAR/blob/main/screenshots/screenshot4.png)
